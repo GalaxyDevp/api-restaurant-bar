@@ -8,6 +8,9 @@ MySQL version: 5.7.36
 
 ### `php artisan serve`
 
+
+### Created API 
+
 GET   api/categorias 
 GET   api/categorias/{id}
 GET   api/centrosConsumo 
